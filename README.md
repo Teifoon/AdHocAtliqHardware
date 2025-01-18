@@ -5,7 +5,9 @@ In this **Consumer Goods** project I worked on data from Atliq Hardware, a ficti
 ---
 
 ## **Key Questions Answered**
-- The requests answer critical business questions about market presence, product growth, customer behavior, and sales performance. They provide insights into top-performing products, segments, channels, and customers, as well as trends across time periods and regions.
+
+The requests answer critical business questions about market presence, product growth, customer behavior, and sales performance. They provide insights into top-performing products, segments, channels, and customers, as well as trends across time periods and regions.
+
 ---
 ## **Tools Used**
 - **SQL:**  
