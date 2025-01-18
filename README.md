@@ -1,6 +1,6 @@
 # **Ad-Hoc AtliqHardware**
 
-In this **Consumer Goods** project I worked on data from Atliq Hardware, a fictional leader in computer hardware. I used **MySQL** to extract important insights that would be usefull for management.
+In this **Consumer Goods** project I worked on data from Atliq Hardware, a fictional leader in computer hardware. I used **MySQL** to extract important insights that would be useful for management.
 
 ---
 
